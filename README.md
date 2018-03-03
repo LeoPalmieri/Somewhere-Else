@@ -1,2 +1,5 @@
 # Somewhere-Else
-Let's start!
+
+Hi, Guys!
+
+This is LeoPalmieri, and i am a gooner. Welcome to my GitHub.
